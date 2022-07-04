@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Oblakoru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Oblakoru/Oblakoru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hellow! My name is Oblakoru and I am a Informatics student at the Faculty of Electrical Engineering and Computer Science located in Maribor, Slovenia!
+👀 I’m mostly interested in learning new technologies for Front-End development.
+🌱 I’m currently learning the React library as well as UI/UX design! 

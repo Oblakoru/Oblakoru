@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Jeran</h1>
-<h3 align="center">Third year student at the Faculty of Electrical Engineering and Computer Science in Maribor</h3>
+<h3 align="center">First year student at the Faculty of Electrical Engineering and Computer Science in Maribor, Masters programme</h3>
 
 - 🌱 I’m currently learning **Flutter and SvelteKit**
 
